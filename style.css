@@ -1,0 +1,23 @@
+#box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#navbar{
+   
+    flex-direction: column;
+}
+
+#navbar ul li a{
+   
+   font-size: 1rem;
+}
+
+#primary{
+    margin-left: 70px;
+}
+
+#home p{
+    margin-left: 30px;
+}
